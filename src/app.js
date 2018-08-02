@@ -1,4 +1,4 @@
-const port = 80;
+const port = 3000;
 
 const server = require("./config/server");
 const routes = require('./config/routes');
